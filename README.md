@@ -4,9 +4,9 @@ Utilizei a lang Pogress.
 
 ## Conteúdo
 ### Registro apagado
- ![](registro-apagado.mp4) 
+![](https://github.com/edsonbmj/botoes-progress/blob/main/registro-apagado.mp4) 
 ### Registro não apagado
-![](registro-nao-apagado.mp4) 
+![](https://github.com/edsonbmj/botoes-progress/blob/main/registro-nao-apagado.mp4) 
 ### Operação cancelada
-![](operacao-cancelada.mp4)
+![](https://github.com/edsonbmj/botoes-progress/blob/main/operacao-cancelada.mp4))
  
