@@ -3,10 +3,12 @@ Este trecho de código simula uma confirmação de exclusão de registro no banc
 Utilizei a lang Pogress.
 
 ## Conteúdo
+### Código
+![](https://github.com/edsonbmj/botoes-progress/blob/main/codigo.jpg)
 ### Registro apagado
- ![](registro-apagado.gif) ![Imagem1](https://github.com/edsonbmj/botoes-progress/blob/main/deletado.jpg)
+ ![](registro-apagado.gif) 
 ### Registro não apagado
-![](registro-nao-apagado.gif) ![Imagem2](https://github.com/edsonbmj/botoes-progress/blob/main/nao-deletado.jpg)
+![](registro-nao-apagado.gif) 
 ### Operação cancelada
-![](operacao-cancelada.gif) ![imagem3](https://github.com/edsonbmj/botoes-progress/blob/main/CANCELADO.jpg)
+![](operacao-cancelada.gif)
  
