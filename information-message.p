@@ -1,9 +1,19 @@
+/*
+@author Edson Barroso
+@since 04/06/2022
+@version 1.0
+*/
+
+//  ------------------------------------------------------------------
+//  CAIXA DE TEXTO PARA CONFIRMAR, NÃO CONFIRMAR E CANCELAR OPERAÇÃO
+//  ------------------------------------------------------------------
+
 MESSAGE
     "DELETAR REGISTRO?"
     VIEW-AS ALERT-BOX QUESTION BUTTONS YES-NO-CANCEL
     TITLE "ATTENTION" UPDATE lChoice AS LOGICAL.
     
-//ALTERNATIVAS PARA CADA BOTÃO
+//ALTERNATIVAS PARA CADA OPÇÃO
     IF lChoice = YES THEN
     DO:
 //APAGAR REGISTRO    
