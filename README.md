@@ -8,5 +8,5 @@ Utilizei a lang Pogress.
 ### Registro não apagado
 ![](https://github.com/edsonbmj/botoes-progress/blob/main/registro-nao-apagado.mp4) 
 ### Operação cancelada
-![](https://github.com/edsonbmj/botoes-progress/blob/main/operacao-cancelada.mp4))
+![](https://github.com/edsonbmj/botoes-progress/blob/main/operacao-cancelada.mp4)
  
