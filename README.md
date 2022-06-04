@@ -1,2 +1,11 @@
-# botoes-progress
-Simulando opções ao tentar deletar registro do database.
+# Message Box para confirmar exclusão de registro
+Este trecho de código simula uma confirmação de exclusão de registro no banco de dados.
+Utilizei a lang Pogress.
+
+## Conteúdo
+### Registro apagado
+ ![](registro-apagado.gif)
+### Registro não apagado
+![](registro-nao-apagado.gif)
+### Operação cancelada
+![](operacao-cancelada.gif)
